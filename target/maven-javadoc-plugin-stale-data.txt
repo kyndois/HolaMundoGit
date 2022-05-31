@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'C:/Users/Usuario/Documents/NetBeansProjects/Circulo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Documents/NetBeansProjects/Circulo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Circulo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' 'C:/Users/Usuario/Documents/NetBeansProjects/Circulo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Circulo 1.0-SNAPSHOT API'
+circulo
+'C:/Users/Usuario/Documents/NetBeansProjects/Circulo/src/main/java/circulo/Circulito.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/Circulo/src/main/java/circulo/Main.java'
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\src\main\java = 1653375908478
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\allclasses-index.html = 1653986175809
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\allpackages-index.html = 1653986175820
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\constant-values.html = 1653986175744
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\deprecated-list.html = 1653986175774
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\element-list = 1653986175726
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\help-doc.html = 1653986175832
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\index-all.html = 1653986175804
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\index.html = 1653986175828
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\member-search-index.js = 1653986175801
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\member-search-index.zip = 1653986175802
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\overview-tree.html = 1653986175763
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\package-search-index.js = 1653986175790
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\package-search-index.zip = 1653986175797
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\script.js = 1653986175838
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\search.js = 1653986175844
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\stylesheet.css = 1653986175836
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\system-properties.html = 1653986175826
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\type-search-index.js = 1653986175799
+C:\Users\Usuario\Documents\NetBeansProjects\Circulo\target\site\apidocs\type-search-index.zip = 1653986175800
